@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dev-TT (Juan)
-- 👀 I’m interested in angular, node, flutter
-- 🌱 I’m currently learning angular
+- 👀 I’m interested in Haskell, Plutus, react, node
 - 💞️ I’m looking to collaborate on all the above
 - 📫 How to reach me, send me a msg here on github and we can continue chatting over Matrix
 
